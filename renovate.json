@@ -31,7 +31,7 @@
       "matchPackageNames": [
         "portfolio-performance/portfolio"
       ],
-      "extractVersion": "^v(?<version>\\d+\\.\\d+\\.\\d+)"
+      "extractVersion": "^(?<version>\\d+\\.\\d+\\.\\d+)"
     },
     {
       "matchUpdateTypes": [
