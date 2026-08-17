@@ -1,6 +1,6 @@
 FROM jlesage/baseimage-gui:ubuntu-24.04-v4.9
 
-ARG PP_VERSION=0.86.1
+ARG PP_VERSION=0.87.0
 
 WORKDIR /tmp
 
